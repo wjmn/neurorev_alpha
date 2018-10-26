@@ -1,7 +1,7 @@
 {
   "main.css": "/neurorev_alpha/static/css/main.6eb3c21e.chunk.css",
-  "main.js": "/neurorev_alpha/static/js/main.8855e915.chunk.js",
-  "main.js.map": "/neurorev_alpha/static/js/main.8855e915.chunk.js.map",
+  "main.js": "/neurorev_alpha/static/js/main.f2165a0e.chunk.js",
+  "main.js.map": "/neurorev_alpha/static/js/main.f2165a0e.chunk.js.map",
   "static/css/1.36378543.chunk.css": "/neurorev_alpha/static/css/1.36378543.chunk.css",
   "static/js/1.6cc469ce.chunk.js": "/neurorev_alpha/static/js/1.6cc469ce.chunk.js",
   "static/js/1.6cc469ce.chunk.js.map": "/neurorev_alpha/static/js/1.6cc469ce.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/1.36378543.chunk.css.map": "/neurorev_alpha/static/css/1.36378543.chunk.css.map",
   "static/css/main.6eb3c21e.chunk.css.map": "/neurorev_alpha/static/css/main.6eb3c21e.chunk.css.map",
   "index.html": "/neurorev_alpha/index.html",
-  "precache-manifest.5aa188594ab98c753c6cdd36fb0630cc.js": "/neurorev_alpha/precache-manifest.5aa188594ab98c753c6cdd36fb0630cc.js",
+  "precache-manifest.cc3ba80176583f49cf7dbfb82f1f5563.js": "/neurorev_alpha/precache-manifest.cc3ba80176583f49cf7dbfb82f1f5563.js",
   "service-worker.js": "/neurorev_alpha/service-worker.js"
 }
