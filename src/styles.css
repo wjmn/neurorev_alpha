@@ -1,0 +1,49 @@
+.App {
+  font-family: Calibri, "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+    sans-serif;
+  text-align: center;
+}
+
+.contact {
+  text-align: center;
+}
+
+@page {
+  size: A4;
+  margin: 0;
+}
+
+.details {
+  margin: 0 2% 0 2%;
+  padding: 1%;
+  text-align: left;
+  border: 1px solid black;
+}
+
+.stem {
+  margin: 0 2% 0 2%;
+  text-align: left;
+}
+
+.results {
+    margin: 0 2% 0 2%;
+    text-align: left;
+}
+
+
+h1 {
+  text-align: center;
+}
+
+body {
+  background: rgb(204, 204, 204);
+}
+page {
+  background: white;
+  max-width: 21cm;
+  display: block;
+  margin: 0 auto;
+  padding: 3%;
+  margin-bottom: 0.5cm;
+  box-shadow: 0 0 0.5cm rgba(0, 0, 0, 0.5);
+}
