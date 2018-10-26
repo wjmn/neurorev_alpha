@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/neurorev_alpha/precache-manifest.da135768e4da4aa7c604e42fc180698f.js"
+  "/neurorev_alpha/precache-manifest.65099ddce905c979c9fbc4e15126ba99.js"
 );
 
 workbox.clientsClaim();

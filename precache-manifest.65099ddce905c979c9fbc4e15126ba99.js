@@ -4,23 +4,23 @@ self.__precacheManifest = [
     "url": "/neurorev_alpha/static/js/runtime~main.0fddd5b9.js"
   },
   {
-    "revision": "b82ded8d5af686546fdb",
-    "url": "/neurorev_alpha/static/js/main.b82ded8d.chunk.js"
+    "revision": "6ceb0d68dbbb0dd25e94",
+    "url": "/neurorev_alpha/static/js/main.6ceb0d68.chunk.js"
   },
   {
-    "revision": "6d132d0c230b4dffc359",
-    "url": "/neurorev_alpha/static/js/1.6d132d0c.chunk.js"
+    "revision": "7bb60e0f45c0184bf132",
+    "url": "/neurorev_alpha/static/js/1.7bb60e0f.chunk.js"
   },
   {
-    "revision": "b82ded8d5af686546fdb",
+    "revision": "6ceb0d68dbbb0dd25e94",
     "url": "/neurorev_alpha/static/css/main.47a8c2a0.chunk.css"
   },
   {
-    "revision": "6d132d0c230b4dffc359",
+    "revision": "7bb60e0f45c0184bf132",
     "url": "/neurorev_alpha/static/css/1.55dbccc4.chunk.css"
   },
   {
-    "revision": "e47e05fd6647d1d8840c7520e68cc9f8",
+    "revision": "9d4e09f836be077bc3e423b138b8400a",
     "url": "/neurorev_alpha/index.html"
   }
 ];
